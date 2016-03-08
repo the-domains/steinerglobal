@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Social Entrepreneurship - Investing in a Better World\_"
-datePublished: '2016-03-08T19:08:22.495Z'
-dateModified: '2016-03-08T19:06:48.858Z'
+datePublished: '2016-03-08T19:12:30.943Z'
+dateModified: '2016-03-08T19:12:14.781Z'
 title: 'Social Entrepreneurship '
 author: []
+sourcePath: _posts/2016-03-08-social-entrepreneurship.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-social-entrepreneurship.md
-published: true
 url: social-entrepreneurship/index.html
 _type: Article
 
