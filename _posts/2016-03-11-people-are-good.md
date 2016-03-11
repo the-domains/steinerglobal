@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - gorilla
   - founder
 description: Join Me as I Visit These Beautiful People at Home. From Tashkent to St. Petersburg
-datePublished: '2016-03-11T15:11:52.012Z'
-dateModified: '2016-03-11T15:10:50.860Z'
+datePublished: '2016-03-11T15:29:31.507Z'
+dateModified: '2016-03-11T15:29:05.126Z'
 author:
   - name: Michael Steiner
     url: 'https://www.youtube.com/user/Improsteiner'
@@ -61,14 +61,14 @@ app_links:
     namespace: google
     type: ios
 title: People Are Good
+sourcePath: _posts/2016-03-11-people-are-good.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-11-people-are-good.md
-published: true
 url: people-are-good/index.html
 _type: VideoObject
 _context: 'http://schema.org'
