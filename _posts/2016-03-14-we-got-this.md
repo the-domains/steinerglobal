@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Do you believe in the American Dream? I Do! Every Social Entrepreneurship Action You Take - Strengthens the American Dream'
-datePublished: '2016-03-14T21:03:39.806Z'
-dateModified: '2016-03-14T21:03:21.164Z'
+datePublished: '2016-03-14T21:07:07.790Z'
+dateModified: '2016-03-14T21:03:48.535Z'
 author:
   - name: Opportunity Nation
     url: 'https://www.youtube.com/user/OpportunityNation'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: We Got This
+sourcePath: _posts/2016-03-14-we-got-this.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-03-14-we-got-this.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
