@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=DlA8aJR9DDA'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: 'On November 23rd 2008, a group of AMAZING CMU students showed @ Riverview Towers and danced the residents as they all celebrate the Thanksgiving Prom 2008. Enjoy the pictures and DANCE with Riverview Towers residents.'
-datePublished: '2016-03-11T15:36:21.825Z'
-dateModified: '2016-03-11T15:36:00.972Z'
+description: 'On Thanksgiving, a group of @CarnegieMellon students showed at Riverview Towers - danced the residents as they all celebrate the Thanksgiving Prom.'
+datePublished: '2016-03-14T21:06:26.813Z'
+dateModified: '2016-03-14T21:06:11.908Z'
 author:
   - name: ujfddd
     url: 'https://www.youtube.com/user/ujfddd'
@@ -16,14 +15,15 @@ author:
 related: []
 app_links: []
 title: Riverview Towers Pittsburgh Thanksgiving Prom
+sourcePath: _posts/2016-03-11-riverview-towers-pittsburgh-thanksgiving-prom.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-03-11-riverview-towers-pittsburgh-thanksgiving-prom.md
-published: true
+url: riverview-towers-pittsburgh-thanksgiving-prom/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
