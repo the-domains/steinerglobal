@@ -17,8 +17,8 @@ keywords:
   - etel
   - thanksgiving
 description: 'Michael (Mike) Masterovoy - a GIFTED video producer, worked with me on several video productions in over 13 years. Here is one video Mike produced for Etel, a Jewish soup-kitchen in Moscow. Supported primarily by JDC (The American Jewish Joint Distribution) this amazing soup-kitchen provides food, a place to be and medical support to hundreds throughout Moscow.'
-datePublished: '2016-03-11T14:57:26.575Z'
-dateModified: '2016-03-11T14:57:09.300Z'
+datePublished: '2016-03-14T21:10:04.106Z'
+dateModified: '2016-03-11T15:32:12.580Z'
 author:
   - name: ujfddd
     url: 'https://www.youtube.com/user/ujfddd'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: Etel Soup-Kitchen - Moscow Russia
+sourcePath: _posts/2016-03-11-etel-soup-kitchen-moscow-russia.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-11-etel-soup-kitchen-moscow-russia.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
