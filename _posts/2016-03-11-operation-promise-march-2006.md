@@ -1,21 +1,20 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=-2dGmvMUKa4'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Caring for the Ethiopian Jews who want to Immigrate to Israel '
-datePublished: '2016-03-14T21:15:24.140Z'
-dateModified: '2016-03-14T21:09:39.153Z'
+datePublished: '2016-03-14T21:24:39.176Z'
+dateModified: '2016-03-14T21:24:13.126Z'
 author:
   - name: Michael Steiner
     url: 'https://www.youtube.com/user/Improsteiner'
     avatar: {}
 related: []
 app_links: []
-title: Operation Promise - March 2006
+title: 'Operation Promise Ethiopia & Russia'
 sourcePath: _posts/2016-03-11-operation-promise-march-2006.md
 published: true
 authors: []
@@ -24,6 +23,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+url: operation-promise-ethiopia-and-russia/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
