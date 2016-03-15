@@ -16,8 +16,8 @@ keywords:
   - http
   - tweet
 description: 'The latest Tweets from Michael Steiner (@SteinerGlobal). Highlighting Your Global Strategy - StartUps, Entrepreneurs & Philanthropists. Serving as a Voice to those who Make a Difference. The Global IT. Pittsburgh'
-datePublished: '2016-03-15T01:30:52.393Z'
-dateModified: '2016-03-15T01:30:39.709Z'
+datePublished: '2016-03-15T01:32:15.174Z'
+dateModified: '2016-03-15T01:32:09.410Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/672854988171829248/z1Ind_ol_400x400.jpg'
@@ -46,14 +46,14 @@ app_links:
     namespace: google
     type: android
 title: '@SteinerGlobal Twitter Updates'
+sourcePath: _posts/2016-03-15-steinerglobal-twitter-updates.md
+published: true
 authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'https://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-sourcePath: _posts/2016-03-15-steinerglobal-twitter-updates.md
-published: true
 url: steinerglobal-twitter-updates/index.html
 _type: Comment
 _context: 'http://schema.org'
