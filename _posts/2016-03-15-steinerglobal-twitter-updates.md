@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - http
   - tweet
 description: 'The latest Tweets from Michael Steiner (@SteinerGlobal). Highlighting Your Global Strategy - StartUps, Entrepreneurs & Philanthropists. Serving as a Voice to those who Make a Difference. The Global IT. Pittsburgh'
-datePublished: '2016-03-15T01:32:15.174Z'
-dateModified: '2016-03-15T01:32:09.410Z'
+datePublished: '2016-03-15T16:09:00.563Z'
+dateModified: '2016-03-15T13:47:38.150Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/672854988171829248/z1Ind_ol_400x400.jpg'
