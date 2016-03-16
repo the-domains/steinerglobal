@@ -16,8 +16,8 @@ keywords:
   - coffee
   - '897'
 description: "Diversity and inclusion is not a destination, it's a journey. Bring your full self to a workplace where your differences are celebrated. Join a team that creates a culture of warmth and belonging, where everyone is welcome. http://www.starbucks.com/careers OR http://www.starbucks.ca/careers"
-datePublished: '2016-03-14T21:48:30.997Z'
-dateModified: '2016-03-14T21:48:24.217Z'
+datePublished: '2016-03-16T17:20:44.417Z'
+dateModified: '2016-03-16T17:20:28.588Z'
 author:
   - name: Starbucks Coffee
     url: 'https://www.youtube.com/user/Starbucks'
@@ -61,14 +61,14 @@ app_links:
     namespace: google
     type: ios
 title: A Look at Starbucks
+sourcePath: _posts/2016-03-14-a-look-at-starbucks.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-14-a-look-at-starbucks.md
-published: true
 url: a-look-at-starbucks/index.html
 _type: VideoObject
 _context: 'http://schema.org'
