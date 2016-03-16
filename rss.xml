@@ -4,8 +4,15 @@
         <description><![CDATA[Social Entrepreneurship ]]></description>
         <link>https://thegrid.ai/steinerglobal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 17:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 17:22:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steinerglobal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Promise ?!]]></title>
+            <description><![CDATA[<article><h1>Promise ?!</h1><p>Our Story Begins with a Promise... But what is it that We Do with this Promise - is Really up to Each of Us... I believe the Promise Means Caring for Others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/907c061b9ed240d33d8d1f333d87b4d117309694.jpg"></article>]]></description>
+            <link>https://thegrid.ai/steinerglobal/promise/index.html</link>
+            <guid isPermaLink="false">b37e6277-420b-44ab-a88f-50873849a090</guid>
+            <pubDate>Wed, 16 Mar 2016 17:21:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Look at Starbucks]]></title>
             <description><![CDATA[<article><h1>A Look at Starbucks</h1><p>Diversity and inclusion is not a destination, it's a journey. Bring your full self to a workplace where your differences are celebrated. Join a team that creates a culture of warmth and belonging, where everyone is welcome. http://www.starbucks.com/careers OR http://www.starbucks.ca/careers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/549a97cfe7581d962f463f64c2e2025b830c38ba.jpg"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://www.youtube.com/watch?v=ff3uhNPaoug</link>
             <guid isPermaLink="false">805a4489-d9de-4437-a43a-53b289c40ef1</guid>
             <pubDate>Mon, 14 Mar 2016 21:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Promise ?!]]></title>
-            <description><![CDATA[<article><h1>Promise ?!</h1><p>Our Story Begins with a Promise... But what is it that We Do with this Promise - is Really up to Each of Us... I believe the Promise Means Caring for Others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/907c061b9ed240d33d8d1f333d87b4d117309694.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=a2oE3hQWgg4</link>
-            <guid isPermaLink="false">b37e6277-420b-44ab-a88f-50873849a090</guid>
-            <pubDate>Fri, 11 Mar 2016 15:30:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
