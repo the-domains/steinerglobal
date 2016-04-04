@@ -16,8 +16,8 @@ keywords:
   - impact
   - veterans
 description: Uploaded by Google.org on 2016-04-04.
-datePublished: '2016-04-04T18:57:46.002Z'
-dateModified: '2016-04-04T18:57:17.955Z'
+datePublished: '2016-04-04T18:58:43.023Z'
+dateModified: '2016-04-04T18:58:23.720Z'
 author:
   - name: Google.org
     url: 'https://www.youtube.com/user/Googleorg'
