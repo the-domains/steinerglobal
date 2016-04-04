@@ -16,8 +16,8 @@ keywords:
   - impact
   - veterans
 description: Uploaded by Google.org on 2016-04-04.
-datePublished: '2016-04-04T18:56:58.853Z'
-dateModified: '2016-04-04T18:56:43.064Z'
+datePublished: '2016-04-04T18:57:46.002Z'
+dateModified: '2016-04-04T18:57:17.955Z'
 author:
   - name: Google.org
     url: 'https://www.youtube.com/user/Googleorg'
@@ -61,14 +61,14 @@ app_links:
     namespace: google
     type: ios
 title: 'Google Tech Transformation '
+sourcePath: _posts/2016-04-04-google-tech-transformation.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-04-google-tech-transformation.md
-published: true
 url: google-tech-transformation/index.html
 _type: VideoObject
 _context: 'http://schema.org'
