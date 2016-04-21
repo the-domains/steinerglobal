@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - non-profits
   - michael
@@ -16,22 +16,22 @@ keywords:
   - donors
   - mellon
 description: Founder of YourGlobalStrategy
-datePublished: '2016-04-21T21:45:29.483Z'
-dateModified: '2016-04-21T21:45:06.845Z'
+datePublished: '2016-04-21T22:03:54.797Z'
+dateModified: '2016-04-21T22:03:36.149Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
 title: Michael Steiner
+sourcePath: _posts/2016-04-21-michael-steiner.md
+published: true
 authors: []
 publisher:
   name: Flavors.me
   domain: miste.flavors.me
   url: 'http://miste.flavors.me'
   favicon: 'http://static.flavors.me/static-6d98c103e5e088866ce5e8d9fb36e8a28a27c493/sprites/shared/favicon.ico'
-sourcePath: _posts/2016-04-21-michael-steiner.md
-published: true
 url: michael-steiner/index.html
 _context: 'http://schema.org'
 _type: MediaObject
